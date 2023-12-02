@@ -1,0 +1,4 @@
+edge-tts
+soundfile
+sounddevice
+customtkinter
